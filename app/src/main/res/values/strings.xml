@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QueueManager</string>
+    <string name="fill_queue">fill queue!</string>
+</resources>
